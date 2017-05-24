@@ -1,0 +1,6 @@
+({
+	baseUrl: "",
+	cssIn: "../src/indiload/0.1.0/css/indiload.css",
+	out: "indiload.min.css",
+	optimizeCss: "standard",
+})

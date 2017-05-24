@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#222;}
+</style>
+<g id="Search">
+	<g>
+		<path class="st0" d="M15.7,14.3l-3-3c0,0-0.1,0-0.1-0.1C13.5,10,14,8.6,14,7c0-3.9-3.1-7-7-7S0,3.1,0,7c0,3.9,3.1,7,7,7c1.6,0,3-0.5,4.2-1.4c0,0,0,0.1,0.1,0.1l3,3c0.4,0.4,1,0.4,1.4,0C16.1,15.3,16.1,14.7,15.7,14.3z M7,12c-2.8,0-5-2.2-5-5s2.2-5,5-5c2.8,0,5,2.2,5,5S9.8,12,7,12z"/>
+	</g>
+</g>
+</svg>

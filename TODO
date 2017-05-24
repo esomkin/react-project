@@ -1,0 +1,4 @@
+1. Immutable
+2. Reset create form after Submit (or initialize on SubmitSuccess)
+3. Fix tabs on small screen
+4. Sequelize validators

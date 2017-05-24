@@ -1,0 +1,17 @@
+.indi-load{
+	position: fixed;
+	visibility: hidden;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(255, 255, 255, .5);
+	background-image: url(../img/loading.svg);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	z-index: 500;
+}
+
+.indi-load.indi-show{
+	visibility: visible;
+}

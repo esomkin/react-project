@@ -1,0 +1,5 @@
+({
+	baseUrl: "./",
+	name: "../src/indiload/0.1.0/jscript/indiload.js",
+	out: "indiload.min.js",
+})
